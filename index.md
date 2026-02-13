@@ -2,11 +2,7 @@
 layout: home
 ---
 
-# Service Hours – Legal Documents
-
 Welcome to the official legal documentation for the VolunteerTRACK mobile application.
-
-## Documents
 
 - [Terms of Service](terms-of-service)
 - [Privacy Policy](privacy-policy)

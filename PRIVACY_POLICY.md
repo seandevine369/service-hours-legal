@@ -45,7 +45,7 @@ We use the following third-party services that may collect information:
 
 ## 4. Data Storage and Security
 
-- Data is stored on secure servers in [REGION]
+- Data is stored on secure Amazon Web Services (AWS) infrastructure in the Canada (Central) region (ca-central-1).
 - We use encryption for data in transit and at rest
 - Signatures are stored securely in AWS S3
 - We implement industry-standard security measures
@@ -68,7 +68,7 @@ Under Canada's Personal Information Protection and Electronic Documents Act (PIP
 - **Request deletion** of your data
 - **File a complaint** with the Office of the Privacy Commissioner of Canada
 
-To exercise these rights, contact us at [EMAIL].
+To exercise these rights, contact us at sdevine.ca@gmail.com.
 
 ## 7. Parental Rights and Minor Users
 

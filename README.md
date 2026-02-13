@@ -21,5 +21,5 @@ https://yourusername.github.io/service-hours-legal/
 
 ## Contact
 
-[COMPANY NAME]
-[EMAIL]
+Sean Devine
+sdevine.ca@gmail.com

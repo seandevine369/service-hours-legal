@@ -1,2 +1,4 @@
 theme: minima
 title: Service Hours Legal
+exclude:
+  - README.md

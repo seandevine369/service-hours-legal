@@ -1,3 +1,9 @@
+---
+layout: page
+title: End User License Agreement
+permalink: /eula
+---
+
 **END USER LICENSE AGREEMENT**
 
 Last Updated: Febuary 13th, 2026

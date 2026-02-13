@@ -1,3 +1,9 @@
+---
+layout: page
+title: Third-Party Software Licenses
+permalink: /third-party-licenses
+---
+
 **THIRD-PARTY SOFTWARE LICENSES**
 
 The Service Hours application uses the following open-source libraries:

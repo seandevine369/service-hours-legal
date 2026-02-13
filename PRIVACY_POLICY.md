@@ -57,7 +57,7 @@ We retain your information for as long as:
 - Necessary to provide services
 - Required by law or for legitimate business purposes
 
-For students, service hour records may be retained for [X] years after graduation to support educational and employment verification needs.
+For students, service hour records may be retained for 7 years after graduation to support educational and employment verification needs.
 
 ## 6. Your Rights Under PIPEDA
 

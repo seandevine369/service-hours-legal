@@ -17,7 +17,7 @@ These documents are publicly available to comply with:
 
 ## Official Website
 
-https://yourusername.github.io/service-hours-legal/
+https://seandevine369.github.io/service-hours-legal/
 
 ## Contact
 

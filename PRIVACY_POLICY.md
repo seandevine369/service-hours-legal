@@ -8,7 +8,7 @@ permalink: /privacy-policy
 
 Last Updated: Febuary 13th, 2026
 
-Service Hours ("we," "our," or "us") operates the Service Hours mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
+VolunteerTRACK ("we," "our," or "us") operates the VolunteerTRACK mobile application (the "App"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our App.
 
 **IMPORTANT NOTICE FOR MINORS:** This App is designed for use by high school students. If you are under 18 years of age, please review this Privacy Policy with your parent or guardian. This App is not intended for children under 13. We do not knowingly collect personal information from children under 13.
 

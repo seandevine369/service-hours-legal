@@ -10,13 +10,13 @@ Last Updated: Febuary 13th, 2026
 
 ## 1. Acceptance of Terms
 
-By accessing or using the Service Hours application ("App"), you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of these Terms, you may not access the App.
+By accessing or using the VolunteerTRACK application ("App"), you agree to be bound by these Terms of Service ("Terms"). If you disagree with any part of these Terms, you may not access the App.
 
 If you are under 18 years of age, you represent that your parent or legal guardian has reviewed and agreed to these Terms on your behalf.
 
 ## 2. Description of Service
 
-Service Hours is a mobile application that enables users to:
+VolunteerTRACK is a mobile application that enables users to:
 - Log and track community service/volunteer hours
 - Submit hours for verification and approval
 - Obtain digital signatures from supervisors
@@ -59,7 +59,7 @@ You agree NOT to:
 
 ## 6. Intellectual Property
 
-The App, including its content, features, and functionality, is owned by [COMPANY NAME] and protected by copyright, trademark, and other intellectual property laws.
+The App, including its content, features, and functionality, is owned by Sean Devine and protected by copyright, trademark, and other intellectual property laws.
 
 You may not:
 - Copy, modify, or distribute App content
@@ -85,7 +85,7 @@ We do not warrant that:
 
 ## 9. Limitation of Liability
 
-TO THE MAXIMUM EXTENT PERMITTED BY LAW, [COMPANY NAME] SHALL NOT BE LIABLE FOR:
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, Sean Devine SHALL NOT BE LIABLE FOR:
 - Indirect, incidental, special, or consequential damages
 - Loss of data, profits, or goodwill
 - Service interruptions
@@ -93,7 +93,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, [COMPANY NAME] SHALL NOT BE LIABLE FOR:
 
 ## 10. Indemnification
 
-You agree to indemnify and hold harmless [COMPANY NAME] from any claims, damages, or expenses arising from:
+You agree to indemnify and hold harmless Sean Devine from any claims, damages, or expenses arising from:
 - Your use of the App
 - Your violation of these Terms
 - Your violation of any third-party rights

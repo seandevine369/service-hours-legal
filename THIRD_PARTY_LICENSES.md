@@ -6,7 +6,7 @@ permalink: /third-party-licenses
 
 **THIRD-PARTY SOFTWARE LICENSES**
 
-The Service Hours application uses the following open-source libraries:
+The VolunteerTRACK application uses the following open-source libraries:
 
 ## Apache License 2.0
 

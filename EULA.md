@@ -8,7 +8,7 @@ permalink: /eula
 
 Last Updated: Febuary 13th, 2026
 
-This End User License Agreement ("EULA") is a legal agreement between you and [COMPANY NAME] ("Company") for the Service Hours mobile application ("App").
+This End User License Agreement ("EULA") is a legal agreement between you and Sean Devine ("Company") for the VolunteerTRACK mobile application ("App").
 
 BY INSTALLING OR USING THE APP, YOU AGREE TO BE BOUND BY THIS EULA.
 

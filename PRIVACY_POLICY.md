@@ -45,9 +45,8 @@ We use the following third-party services that may collect information:
 |---------|---------|----------------|
 | Clerk | Authentication | https://clerk.com/privacy |
 | Amazon Web Services (S3) | File storage (signatures) | https://aws.amazon.com/privacy/ |
-| Google Firebase* | Analytics, notifications | https://firebase.google.com/support/privacy |
+| Google Firebase | Analytics, notifications | https://firebase.google.com/support/privacy |
 
-*Firebase integration planned for future release
 
 ## 4. Data Storage and Security
 

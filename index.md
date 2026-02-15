@@ -8,6 +8,7 @@ Welcome to the official legal documentation for the VolunteerTRACK mobile applic
 - [Privacy Policy](privacy-policy)
 - [End User License Agreement (EULA)](eula)
 - [Third-Party Software Licenses](third-party-licenses)
+- [Account Deletion](account-deletion)
 
 For questions, contact:
 sdevine.ca@gmail.com
